@@ -1,6 +1,5 @@
-36.valid-sudoku : 
-
 //C++
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
